@@ -23,17 +23,6 @@ The system uses **computer vision (OpenCV + cvzone)** to track your hand and int
   
 ---
 
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ppt-gesture-control.git
-   cd ppt-gesture-control
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-
-Make sure you have Microsoft PowerPoint installed and an active presentation open.
 
 ## ▶️ Usage
 
