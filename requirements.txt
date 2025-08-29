@@ -1,0 +1,7 @@
+- opencv-python → for cv2 (computer vision / camera handling).
+
+- cvzone → for HandTrackingModule.
+
+- mediapipe → required by cvzone internally for hand detection.
+
+- pywin32 → provides win32com.client to control PowerPoint.
