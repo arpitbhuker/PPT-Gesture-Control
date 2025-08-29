@@ -1,4 +1,4 @@
-# 🎥 PowerPoint Gesture Controller
+# 🎥 Hand Gesture Controlled Presentation System
 
 Control your PowerPoint presentations with just your **hand gestures**! ✋  
 This project turns your webcam into a **smart presentation controller**, allowing you to move through slides with simple hand movements instead of a keyboard or clicker.  
