@@ -49,7 +49,10 @@ Make sure you have Microsoft PowerPoint installed and an active presentation ope
 
 ## 📹 Demo
 
-(Add a gif or video here – e.g., demo.gif showing hand gestures controlling slides.)
+Here’s a quick preview of the hand gesture slide controller in action:
+
+![Demo](demo.gif)
+
 
 ## 🛠️ Tech Stack
 
